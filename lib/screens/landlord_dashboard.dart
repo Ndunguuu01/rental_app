@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'tenant_list.dart';
+import 'tenant_dashboard.dart';
 
 class LandlordDashboard extends StatelessWidget {
   const LandlordDashboard({super.key});
